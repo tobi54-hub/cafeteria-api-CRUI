@@ -2,8 +2,8 @@
 
 ## Cómo ejecutar el proyecto
 1_ Abrir la terminal en la carpeta proyecto.
-2_ Ejecutar 'npm install' (para instalar dependencias)
-3_ Ejecutar 'node index.js' (o 'npm run dev' si está configurado)
+2_ Ejecutar 'npm install' en la terminal de Visual Code(para instalar dependencias)
+3_ Ejecutar 'node index.js' para que se habilite el servidor(o 'npm run dev' si está configurado)
 4_ El servidor correrá en 'http://localhost:3000.'
 
 ## Endpoints
